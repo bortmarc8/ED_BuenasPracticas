@@ -1,0 +1,6 @@
+C:\Users\Marc\source\repos\BuenasPracticas2\BuenasPrac2.Common\bin\Debug\BuenasPrac2.Common.dll
+C:\Users\Marc\source\repos\BuenasPracticas2\BuenasPrac2.Common\bin\Debug\BuenasPrac2.Common.pdb
+C:\Users\Marc\source\repos\BuenasPracticas2\BuenasPrac2.Common\obj\Debug\BuenasPrac2.Common.csproj.CoreCompileInputs.cache
+C:\Users\Marc\source\repos\BuenasPracticas2\BuenasPrac2.Common\obj\Debug\BuenasPrac2.Common.dll
+C:\Users\Marc\source\repos\BuenasPracticas2\BuenasPrac2.Common\obj\Debug\BuenasPrac2.Common.pdb
+C:\Users\Marc\source\repos\BuenasPracticas2\BuenasPrac2.Common\obj\Debug\BuenasPrac2.Common.csprojAssemblyReference.cache

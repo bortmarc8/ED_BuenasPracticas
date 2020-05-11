@@ -1,0 +1,9 @@
+C:\Users\Marc\source\repos\BuenasPracticas2\BuenasPrac2.Biz\obj\Debug\BuenasPrac2.Biz.csprojAssemblyReference.cache
+C:\Users\Marc\source\repos\BuenasPracticas2\BuenasPrac2.Biz\obj\Debug\BuenasPrac2.Biz.csproj.CoreCompileInputs.cache
+C:\Users\Marc\source\repos\BuenasPracticas2\BuenasPrac2.Biz\bin\Debug\BuenasPrac2.Biz.dll
+C:\Users\Marc\source\repos\BuenasPracticas2\BuenasPrac2.Biz\bin\Debug\BuenasPrac2.Biz.pdb
+C:\Users\Marc\source\repos\BuenasPracticas2\BuenasPrac2.Biz\bin\Debug\BuenasPrac2.Common.dll
+C:\Users\Marc\source\repos\BuenasPracticas2\BuenasPrac2.Biz\bin\Debug\BuenasPrac2.Common.pdb
+C:\Users\Marc\source\repos\BuenasPracticas2\BuenasPrac2.Biz\obj\Debug\BuenasPrac2.Biz.csproj.CopyComplete
+C:\Users\Marc\source\repos\BuenasPracticas2\BuenasPrac2.Biz\obj\Debug\BuenasPrac2.Biz.dll
+C:\Users\Marc\source\repos\BuenasPracticas2\BuenasPrac2.Biz\obj\Debug\BuenasPrac2.Biz.pdb
